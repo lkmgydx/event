@@ -29,6 +29,6 @@
 		}).start();
     
     2.支持spring注解注入 @WsListenerAutowired
-    3.支持回调 WsEventRunnable
+    3.支持回调 WsEventRunnable,回调默认只执行一次, WsDelAfter 为true
       
     
