@@ -29,5 +29,6 @@
 		}).start();
     
     2.支持spring注解注入 @WsListenerAutowired
-    
+    3.支持回调 WsEventRunnable
+      
     
