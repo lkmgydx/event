@@ -1,7 +1,7 @@
 # ws
 1.JAVA事件,使用方式(测试代码)
 
-   WsEvent.addListers(new TestTwoListener());
+   		WsEvent.addListers(new TestTwoListener());
 		WsEvent<TestTwoEventObj> event = WsEvent.getEvent(TestTwoEventObj.class);
 
 		//event.addLister(new TestTwoListener());
